@@ -10,7 +10,7 @@ Revenue Analytics: View daily, monthly, and yearly revenue graphs using Recharts
 Tech Stack
 Backend
 Django & Django REST Framework for API development
-MySQL or PostgreSQL as the database
+Sqllite as the database
 Frontend
 React for a responsive and dynamic user interface
 Recharts for displaying revenue graphs
